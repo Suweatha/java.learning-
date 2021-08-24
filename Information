@@ -1,0 +1,13 @@
+class information{ 
+   public static void main (string [] args);
+      
+       system.out.println("Name   year of joining   salary   address "); 
+         
+       system.out.println("Robert   1994   20000   64C- wallsstreat");
+          
+       system.out.println("sam  2000    20000    68D-wallsstreat" );
+           
+       system.out.println("John   1999   20000   26B- wallsstreat");
+       
+    }
+}
